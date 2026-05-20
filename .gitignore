@@ -1,0 +1,26 @@
+# Environnement virtuel
+venv/
+.venv/
+env/
+
+# Dataset
+*.csv
+data/
+
+# Fichiers générés
+*.png
+*.jpg
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
